@@ -1,0 +1,1 @@
+This is a simple console-based Python program for managing employee records. It lets users add employees, view all details, and search by ID. Employee data is stored in a dictionary, making it easy to manage. The project uses basic Python concepts like functions, loops, and conditionals — ideal for beginners learning data handling.
